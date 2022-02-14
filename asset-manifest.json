@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pixy-frontend/static/css/main.264970d7.css",
-    "main.js": "/pixy-frontend/static/js/main.1ecd0914.js",
-    "static/js/787.70f6ba37.chunk.js": "/pixy-frontend/static/js/787.70f6ba37.chunk.js",
-    "index.html": "/pixy-frontend/index.html",
-    "main.264970d7.css.map": "/pixy-frontend/static/css/main.264970d7.css.map",
-    "main.1ecd0914.js.map": "/pixy-frontend/static/js/main.1ecd0914.js.map",
-    "787.70f6ba37.chunk.js.map": "/pixy-frontend/static/js/787.70f6ba37.chunk.js.map"
+    "main.css": "/static/css/main.264970d7.css",
+    "main.js": "/static/js/main.a7981a83.js",
+    "static/js/787.70f6ba37.chunk.js": "/static/js/787.70f6ba37.chunk.js",
+    "index.html": "/index.html",
+    "main.264970d7.css.map": "/static/css/main.264970d7.css.map",
+    "main.a7981a83.js.map": "/static/js/main.a7981a83.js.map",
+    "787.70f6ba37.chunk.js.map": "/static/js/787.70f6ba37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.264970d7.css",
-    "static/js/main.1ecd0914.js"
+    "static/js/main.a7981a83.js"
   ]
 }

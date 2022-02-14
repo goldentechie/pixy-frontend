@@ -1,0 +1,12 @@
+.NFT-card {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+img {
+  width: -webkit-fill-available;
+  margin-bottom: 5px;
+}
+.NFT-sold {
+  visibility: hidden;
+}
